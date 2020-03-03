@@ -1,7 +1,7 @@
 # 棋牌遊戲介紹
 簡介我在 2019/10 ~ 2020/02 所完成的棋牌遊戲
 
-其他語言版本: *[English](https://github.com/curtis567/FFUN_audio/edit/master/README.md)*, *[中文](https://github.com/curtis567/FFUN_audio/edit/master/README.zh-tw.md)*
+其他語言版本: *[English](https://github.com/curtis567/FFUN_audio/blob/master/README.md)*, *[中文](https://github.com/curtis567/FFUN_audio/blob/master/README.zh-tw.md)*
 
 # 遊戲種類
 * 百家樂(BJL)
