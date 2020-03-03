@@ -6,7 +6,7 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 
 # Table of Contents
   * [Common Component](#common-component)
-    * [NavBar](#navbar)
+    * [NavBar](#>navbar)
   * [Games](#games)
     * [BJL](#bjl)
     * [ZJH](#zjh)
