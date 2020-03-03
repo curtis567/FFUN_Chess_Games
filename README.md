@@ -2,7 +2,7 @@
 # Chess Games Introduction
 Introduction to the chess games I made in 2019/10 ~ 2020/02
 
-Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio/edit/master/README.md)*, *[中文](https://github.com/curtis567/FFUN_audio/edit/master/README.zh-tw.md)*
+Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio/blob/master/README.md)*, *[中文](https://github.com/curtis567/FFUN_audio/blob/master/README.zh-tw.md)*
 
 # Games
 * 百家樂(BJL)
