@@ -6,15 +6,15 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 
 # Table of Contents
   * [Common Component](#common-component)
-    * [NavBar](#>navbar)
+    * [NavBar](#navbar)
   * [Games](#games)
     * [BJL](#bjl)
     * [ZJH](#zjh)
     * [LHD](#lhd)
     * [NN](#nn)
 
-# [Common Component]
-  > NavBar
+# Common Component
+   > ### NavBar
   >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Navbar.png "NavBar")
 ```
  ⦿ Features left -> right
@@ -26,7 +26,7 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
     5️⃣ games dialog
 ```
 # Games
-* BJL
-* ZJH
-* LHD
-* NN
+* ### BJL
+* ### ZJH
+* ### LHD
+* ### NN
