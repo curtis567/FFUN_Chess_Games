@@ -5,16 +5,16 @@ Introduction to the chess games I made in 2019/10 ~ 2020/02
 Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio/blob/master/README.md)*, *[中文](https://github.com/curtis567/FFUN_audio/blob/master/README.zh-tw.md)*
 
 # Table of Contents
-  [Common Component](#games)
-    * NavBar(> 1. NavBar)
-  * Games(# Games)
-    * BJL(# bjl)
-    * ZJH
-    * LHD
-    * NN
+  * [Common Component](#common-component)
+    * [NavBar](>navbar)
+  * [Games](#games)
+    * [BJL](*bjl)
+    * [ZJH](*zjh)
+    * [LHD](*lhd)
+    * [NN](*nn)
 
 # [Common Component]
-  > 1. NavBar
+  > NavBar
   >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Navbar.png "NavBar")
 ```
  ⦿ Features left -> right
@@ -25,8 +25,8 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
     4️⃣ games award number from api date                 
     5️⃣ games dialog
 ```
-# [Games]
-* 百家樂(BJL)[bjl]
-* 炸金花(ZJH)
-* 龍虎鬥(LHD)
-* 萬人牛牛(NN)
+# Games
+* BJL
+* ZJH
+* LHD
+* NN
