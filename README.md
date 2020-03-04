@@ -23,6 +23,7 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
     * [Reset Bet](#reset-bet)
     * [Sound Button](#sound-button)
     * [Online Player](#online-player)
+    * [Setting Chips](#setting-chips)
   * [Resources](#resources)
 
 # Games
