@@ -9,6 +9,7 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
   
   * [Games](#games)
     * [BJL](#bjl)
+      - [Rules](#rules-of-play)
     * [ZJH](#zjh)
     * [LHD](#lhd)
     * [NN](#nn)
@@ -28,7 +29,7 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/BJL_Preload.png "BJL_Preload")
 * <h3>Games view
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/BJL_Game_View.png "BJL_Game_View")
-* <h3>Rules of play
+* ### <h3>Rules of play
 >> Rules of number(Don't look at the poker card suit, just look at the points)
   
 | card                        | number           
