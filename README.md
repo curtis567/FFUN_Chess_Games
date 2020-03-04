@@ -27,7 +27,8 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 
 # Games
 
-* ### BJL
+* ## BJL 
+## [film](https://github.com/curtis567/FFUN_audio/blob/master/movie/BJL.mov)
 * <h3>preload view
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/BJL_Preload.png "BJL_Preload")
 * <h3>Games view
@@ -62,7 +63,8 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
  * opened
  >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/BJL_Opened.png "BJL_Opened")
  
-* ### ZJH
+* ## ZJH
+## [film](https://github.com/curtis567/FFUN_audio/blob/master/movie/ZJH.mov)
 * <h3>preload view
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJH_Preload.png "ZJH_Preload")
 * <h3>Games view
@@ -100,7 +102,8 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
  * opened
  >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJH_Opened.png "ZJH_Opened")
  
-* ### LHD
+* ## LHD
+## [film](https://github.com/curtis567/FFUN_audio/blob/master/movie/LHD.mov)
 * <h3>preload view
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/LHD_Preload.png "LHD_Preload")
 * <h3>Games view
@@ -121,7 +124,8 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
  * opened
  >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/LHD_Opened.png "LHD_Opened")
  
-* ### NN
+* ## NN
+## [film](https://github.com/curtis567/FFUN_audio/blob/master/movie/NN.mov)
 * <h3>preload view
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_Preload.png "NN_Preload")
 * <h3>Games view
