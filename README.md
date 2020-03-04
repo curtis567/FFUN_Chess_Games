@@ -6,19 +6,27 @@ Introduction to the chess games I made in 2019/10 ~ 2020/02
 Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio/blob/master/README.md)*, *[中文](https://github.com/curtis567/FFUN_audio/blob/master/README.zh-tw.md)*
 
 # Table of Contents
-
+  
+  * [Games](#games)
+    * [BJL](#bjl)
+    * [ZJH](#zjh)
+    * [LHD](#lhd)
+    * [NN](#nn)
   * [Common Component](#common-component)
     * [NavBar](#navbar)
     * [Footer](#footer)
     * [Bet Chip](#bet-chip)
     * [Reset Bet](#reset-bet)
     * [Sound Button](#sound-button)
-  * [Games](#games)
-    * [BJL](#bjl)
-    * [ZJH](#zjh)
-    * [LHD](#lhd)
-    * [NN](#nn)
+    * [Online Player](#online-player)
   * [Resources](#resources)
+
+# Games
+
+* ### BJL
+* ### ZJH
+* ### LHD
+* ### NN
 
 # Common Component
 
@@ -68,13 +76,11 @@ If the cart has an amount, you can place a bet once
     3️⃣ Click twice to turn off sound effect and turn on the background music                           
     4️⃣ Three clicks to turn off game sound
 ```
-
-# Games
-
-* ### BJL
-* ### ZJH
-* ### LHD
-* ### NN
+> ### Online Player
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Online_player.png "Bet_Chips")
+```
+Get Online player data from api every three seconds
+```
 
 # Resources
 
