@@ -56,6 +56,12 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 |8                                 |Determine the outcome|8              |Determine the outcome |
 |9                                 |Determine the outcome|9              |Determine the outcome |
 
+>> Show winner
+ * Unopened
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/BJL_Unopened.png "BJL_Unopened")
+ * opened
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/BJL_Opened.png "BJL_Opened")
+ 
 * ### ZJH
 * <h3>preload view
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJH_Preload.png "ZJH_Preload")
@@ -87,7 +93,13 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Spade3@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Heart4@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Club5@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_SZ@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>Straight of Three card ; AKQ max, A23 min |
 <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/SpadeA@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartA@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Diamond2@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_DZ@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>Two cards with the same points ; AAK max, 223 min |
 <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Spade7@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Heart10@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubK@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_KP@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>Three cards with different suits ; AKJ max, 532 min |
-  
+
+>> Show winner
+ * Unopened
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJH_Unopened.png "ZJH_Unopened")
+ * opened
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJH_Opened.png "ZJH_Opened")
+ 
 * ### LHD
 * <h3>preload view
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/LHD_Preload.png "LHD_Preload")
@@ -102,7 +114,13 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
   K > Q > J > 10 > 9 > 8 > 7 > 6 > 5 > 4 > 3 > 2 > A ;
   K Max , A Min , 
   ```
-  
+
+>> Show winner
+ * Unopened
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/LHD_Unopened.png "LHD_Unopened")
+ * opened
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/LHD_Opened.png "LHD_Opened")
+ 
 * ### NN
 * <h3>preload view
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_Preload.png "NN_Preload")
@@ -126,6 +144,12 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 | <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/SpadeA@3x.png" alt="Sample"  width="40" height="50">                     | A is one point    |
 |<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubJ@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubQ@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartK@3x.png" alt="Sample"  width="40" height="50">        | J, Q, k is ten point   |
 
+>> Show winner
+ * Unopened
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_Unopened.png "NN_Unopened")
+ * opened
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_Opened.png "NN_Opened")
+ 
 # Common Component
 
   > ### NavBar
