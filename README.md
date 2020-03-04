@@ -94,6 +94,14 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 * <h3>Games view
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/LHD_Game_View.png "LHD_Game_View")
 * ### <h3>LHD Rules of play
+>> Rules of number(Don't look at the poker card suit, just look at the points)
+  
+>> Point number size
+
+  ```
+  K > Q > J > 10 > 9 > 8 > 7 > 6 > 5 > 4 > 3 > 2 > A ;
+  K Max , A Min , 
+  ```
   
 * ### NN
 * <h3>preload view
@@ -101,6 +109,22 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 * <h3>Games view
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_Game_View.png "NN_Game_View")
 * ### <h3>NN Rules of play
+
+>> Card type
+  
+| card                        | Explanation           
+| :-------------:             |:-------------:|
+| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_N1@3x.png" alt="Sample"  width="80" height="20"> ⇢ <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_N9@3x.png" alt="Sample"  width="80" height="20">| Sum of any three of the five cards are  multiple of 10,<br> Sum of other two cards and take single digit  |
+| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_NN@3x.png" alt="Sample"  width="80" height="20">                     | Sum of any three of the five cards and other two cards are  multiple of 10   |
+|<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_nonN@3x.png" alt="Sample"  width="80" height="20">       | Sum of any three of the five cards are not a multiple of 10   |
+
+>> Rules of number
+
+| Card type                        | number           
+| :-------------:             |:-------------:|
+| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Club2@3x.png" alt="Sample"  width="40" height="50"> ⇢ <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Diamond10@3x.png" alt="Sample"  width="40" height="50">| According to the number on the card|
+| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/SpadeA@3x.png" alt="Sample"  width="40" height="50">                     | A is one point    |
+|<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubJ@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubQ@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartK@3x.png" alt="Sample"  width="40" height="50">        | J, Q, k is ten point   |
 
 # Common Component
 
