@@ -1,14 +1,18 @@
 
 # Chess Games Introduction
+
 Introduction to the chess games I made in 2019/10 ~ 2020/02
 
 Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio/blob/master/README.md)*, *[中文](https://github.com/curtis567/FFUN_audio/blob/master/README.zh-tw.md)*
 
 # Table of Contents
+
   * [Common Component](#common-component)
     * [NavBar](#navbar)
     * [Footer](#footer)
     * [Bet Chip](#bet-chip)
+    * [Reset Bet](#reset-bet)
+    * [Sound Button](#sound-button)
   * [Games](#games)
     * [BJL](#bjl)
     * [ZJH](#zjh)
@@ -17,7 +21,8 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
   * [Resources](#resources)
 
 # Common Component
-   > ### NavBar
+
+  > ### NavBar
   >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Navbar.png "NavBar")
 ```
  ⦿ Features left -> right
@@ -38,14 +43,34 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
     3️⃣ click to bet amount
 ```
  > ### Bet Chip
-  >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Bet_Chips.png "Bet_Chips")
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Bet_Chips.png "Bet_Chips")
 ```
  ⦿ Features left -> right
  
     1️⃣ click to pop up the select chips dialog                     
     2️⃣ click to select balance of chips
 ```
+ > ### Reset Bet
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Reset_Bet.png "Bet_Chips")
+```
+If the cart has an amount, you can place a bet once
+```
+ > ### Sound Button
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Open_Sound.png "Bet_Chips")
+    ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Open_Effect.png "Bet_Chips")
+    ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Open_Background_Sound.png "Bet_Chips")
+    ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Mute.png "Bet_Chips")
+```
+ ⦿ Features left -> right
+ 
+    1️⃣ Play sound in original state                      
+    2️⃣ Click once to turn off background music and turn on the sound effect                                     
+    3️⃣ Click twice to turn off sound effect and turn on the background music                           
+    4️⃣ Three clicks to turn off game sound
+```
+
 # Games
+
 * ### BJL
 * ### ZJH
 * ### LHD
