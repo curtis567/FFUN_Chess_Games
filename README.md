@@ -24,6 +24,7 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
     * [Sound Button](#sound-button)
     * [Online Player](#online-player)
     * [Setting Chips](#setting-chips)
+    * [Bet Record](#bet-record)
   * [Resources](#resources)
 
 # Games
@@ -213,7 +214,11 @@ Get Online player data from api every three seconds
 ```
 Select five chips and press Confirm
 ```
-
+> ### Bet Record
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Bet_Record.png "Bet_Record")
+```
+Show if the chess game has a prize
+```
 # Resources
 
 | Title                     | Link           
