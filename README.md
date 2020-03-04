@@ -9,10 +9,13 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
   
   * [Games](#games)
     * [BJL](#bjl)
-      - [Rules](#rules-of-play)
+      - [Rules](#bjl-rules-of-play)
     * [ZJH](#zjh)
+      - [Rules](#zjh-rules-of-play)
     * [LHD](#lhd)
+      - [Rules](#lhd-rules-of-play)
     * [NN](#nn)
+      - [Rules](#nn-rules-of-play)
   * [Common Component](#common-component)
     * [NavBar](#navbar)
     * [Footer](#footer)
@@ -29,7 +32,7 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/BJL_Preload.png "BJL_Preload")
 * <h3>Games view
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/BJL_Game_View.png "BJL_Game_View")
-* ### <h3>Rules of play
+* ### <h3>BJL Rules of play
 >> Rules of number(Don't look at the poker card suit, just look at the points)
   
 | card                        | number           
@@ -52,9 +55,27 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 |7                                 |No play card|7              |No play cards |
 |8                                 |Determine the outcome|8              |Determine the outcome |
 |9                                 |Determine the outcome|9              |Determine the outcome |
+
 * ### ZJH
+* <h3>preload view
+>> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJH_Preload.png "ZJH_Preload")
+* <h3>Games view
+>> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJH_Game_View.png "ZJH_Game_View")
+* ### <h3>ZJH Rules of play
+  
 * ### LHD
+* <h3>preload view
+>> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/LHD_Preload.png "LHD_Preload")
+* <h3>Games view
+>> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/LHD_Game_View.png "LHD_Game_View")
+* ### <h3>LHD Rules of play
+  
 * ### NN
+* <h3>preload view
+>> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_Preload.png "NN_Preload")
+* <h3>Games view
+>> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_Game_View.png "NN_Game_View")
+* ### <h3>NN Rules of play
 
 # Common Component
 
