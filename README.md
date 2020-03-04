@@ -59,15 +59,15 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
     2️⃣ click to select balance of chips
 ```
  > ### Reset Bet
- >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Reset_Bet.png "Bet_Chips")
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Reset_Bet.png "Reset_Bet")
 ```
 If the cart has an amount, you can place a bet once
 ```
  > ### Sound Button
- >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Open_Sound.png "Bet_Chips")
-    ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Open_Effect.png "Bet_Chips")
-    ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Open_Background_Sound.png "Bet_Chips")
-    ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Mute.png "Bet_Chips")
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Open_Sound.png "Open_Sound")
+    ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Open_Effect.png "Open_Effect")
+    ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Open_Background_Sound.png "Open_Background_Sound")
+    ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Mute.png "Mute")
 ```
  ⦿ Features left -> right
  
@@ -77,7 +77,7 @@ If the cart has an amount, you can place a bet once
     4️⃣ Three clicks to turn off game sound
 ```
 > ### Online Player
- >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Online_player.png "Bet_Chips")
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Online_Player.png "Online_Player")
 ```
 Get Online player data from api every three seconds
 ```
