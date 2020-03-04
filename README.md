@@ -14,6 +14,7 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
     * [ZJH](#zjh)
     * [LHD](#lhd)
     * [NN](#nn)
+  * [Resources](#resources)
 
 # Common Component
    > ### NavBar
@@ -49,3 +50,18 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 * ### ZJH
 * ### LHD
 * ### NN
+
+# Resources
+
+| Title                     | Link           
+| -------------             |:-------------:|
+| React.js                  | https://reactjs.org/ |
+| redux                     | https://redux.js.org/     |
+| styled-components         | https://styled-components.com/     |
+| typescript                | https://www.typescriptlang.org/     |
+| rxjs                      | https://rxjs-dev.firebaseapp.com/     |
+| recompose                 | https://github.com/acdlite/recompose     |
+| axios                     | https://github.com/axios/axios      |
+| storybook                 | https://storybook.js.org/      |
+| gsap                      | https://greensock.com/gsap/      |
+| howler-audio-pool         | https://howlerjs.com/      |
