@@ -207,6 +207,11 @@ If the cart has an amount, you can place a bet once
 ```
 Get Online player data from api every three seconds
 ```
+> ### Setting Chips
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Setting_Chips.png "Setting_Chips")
+```
+Select five chips and press Confirm
+```
 
 # Resources
 
