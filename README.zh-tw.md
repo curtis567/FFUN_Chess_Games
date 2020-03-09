@@ -66,23 +66,23 @@
  
 * ## 萬人炸金花
 > ## 🖥 [萬人炸金花影片](https://github.com/curtis567/FFUN_audio/blob/master/movie/ZJH.mov)
-* <h3>preload view
+* <h3>預載畫面
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJH_Preload.png "ZJH_Preload")
-* <h3>Games view
+* <h3>遊戲畫面
 >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJH_Game_View.png "ZJH_Game_View")
-* ### <h3>ZJH Rules of play
->> Poker card size
+* ### <h3>萬人炸金花玩法規則
+>> 牌型大小
   
 <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_Boom@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"> 〉 <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_SJ@3x.png" alt="ZJ_PkGroup_SJ"  width="80" height="20"> 〉 <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_JH@3x.png" alt="ZJ_PkGroup_JH"  width="80" height="20"> 〉 <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_SZ@3x.png" alt="ZJ_PkGroup_SZ"  width="80" height="20">
   〉 <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_DZ@3x.png" alt="ZJ_PkGroup_DZ"  width="80" height="20"> 〉 <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_KP@3x.png" alt="ZJ_PkGroup_KP"  width="80" height="20">
   
->> Point number size
+>> 點數大小
 
   ```
   A > K > Q > J > 10 > 9 > 8 > 7 > 6 > 5 > 4 > 3 > 2
   ```
   
->> Poker card suit size
+>> 花色大小
 
   ```
   ♠︎ > ♥︎ > ♦︎ > ♣︎
@@ -90,22 +90,69 @@
   
 | card suit                       | Explanation          
 | -------------             |:-------------|
-|  <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartA@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubA@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/SpadeA@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_Boom@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>Three cards with the same points; AAA max, 222 min |
-<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartJ@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartQ@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartK@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_SJ@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>Straight Flush of Three cards; AKQ max, A23 min |
-<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartA@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Heart6@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Heart9@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_JH@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>Flush of Three card ; AKJ max, 235 min |
-<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Spade3@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Heart4@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Club5@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_SZ@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>Straight of Three card ; AKQ max, A23 min |
-<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/SpadeA@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartA@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Diamond2@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_DZ@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>Two cards with the same points ; AAK max, 223 min |
-<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Spade7@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Heart10@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubK@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_KP@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>Three cards with different suits ; AKJ max, 532 min |
+|  <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartA@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubA@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/SpadeA@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_Boom@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>三張點數相同的牌; AAA 最大, 222 最小 |
+<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartJ@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartQ@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartK@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_SJ@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>三張花色相同的順子; AKQ 最大, A23 最小 |
+<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartA@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Heart6@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Heart9@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_JH@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>三張花色相同的牌 ; AKJ 最大, 235 最小 |
+<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Spade3@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Heart4@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Club5@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_SZ@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>三張不同花色的順子 ; AKQ 最大, A23 最小 |
+<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/SpadeA@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartA@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Diamond2@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_DZ@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>二張點數相同的牌 ; AAK 最大, 223 最小 |
+<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Spade7@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Heart10@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubK@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_KP@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>三張點數花色不同的牌 ; AKJ 最大, 532 最小 |
 
->> Show winner
- * Unopened
+>> 贏家顯示
+ * 畫面(未開啟)
  >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJH_Unopened.png "ZJH_Unopened")
- * opened
+ * 畫面(開啟)
  >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJH_Opened.png "ZJH_Opened")
  
 * ## 龍虎鬥
-* ## 萬人牛牛
+> ## 🖥 [龍虎鬥影片](https://github.com/curtis567/FFUN_audio/blob/master/movie/LHD.mov)
+* <h3>預載畫面
+>> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/LHD_Preload.png "LHD_Preload")
+* <h3>遊戲畫面
+>> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/LHD_Game_View.png "LHD_Game_View")
+* ### <h3>龍虎鬥玩法規則
+>> 點數規則(只看撲克牌點數,不看撲克牌花色)
+  
+  ```
+  K > Q > J > 10 > 9 > 8 > 7 > 6 > 5 > 4 > 3 > 2 > A ;
+  K 最大 , A 最小 , 
+  ```
 
+>> 贏家顯示
+ * 畫面(未開啟)
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/LHD_Unopened.png "LHD_Unopened")
+ * 畫面(開啟)
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/LHD_Opened.png "LHD_Opened")
+ 
+* ## 萬人牛牛
+> ## 🖥 [萬人牛牛影片](https://github.com/curtis567/FFUN_audio/blob/master/movie/NN.mov)
+* <h3>預載畫面
+>> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_Preload.png "NN_Preload")
+* <h3>遊戲畫面
+>> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_Game_View.png "NN_Game_View")
+* ### <h3>萬人牛牛玩法規則
+
+>> 牌型
+  
+| 卡片                        | 解釋           
+| :-------------:             |:-------------:|
+| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_N1@3x.png" alt="Sample"  width="80" height="20"> ⇢ <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_N9@3x.png" alt="Sample"  width="80" height="20">| 五張牌中任三張和為10的倍數<br> 剩下二張牌和取個位數即為點數  |
+| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_NN@3x.png" alt="Sample"  width="80" height="20">                     | 五張牌中任三張和為10的倍數剩餘二張牌和也為10的倍數   |
+|<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_nonN@3x.png" alt="Sample"  width="80" height="20">       | 五張牌中任三張和都不為10的倍數  |
+
+>> 點數規則
+
+| 牌型                        | 點數           
+| :-------------:             |:-------------:|
+| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Club2@3x.png" alt="Sample"  width="40" height="50"> ⇢ <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Diamond10@3x.png" alt="Sample"  width="40" height="50">| 依據卡片顯示點數|
+| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/SpadeA@3x.png" alt="Sample"  width="40" height="50">                     | 1點    |
+|<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubJ@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubQ@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartK@3x.png" alt="Sample"  width="40" height="50">        | 10點   |
+
+>> 贏家顯示
+ * 畫面(未開啟)
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_Unopened.png "NN_Unopened")
+ * 畫面(開啟)
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_Opened.png "NN_Opened")
+ 
 # 共用組件
 
   > ### 遊戲上部區
