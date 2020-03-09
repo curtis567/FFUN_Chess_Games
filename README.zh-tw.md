@@ -135,7 +135,7 @@
   
 | 卡片                        | 解釋           
 | :-------------:             |:-------------:|
-| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_N1@3x.png" alt="Sample"  width="80" height="20"> ⇢ <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_N9@3x.png" alt="Sample"  width="80" height="20">| 五張牌中任三張和為10的倍數<br> 剩下二張牌和取個位數即為點數  |
+| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_N1@3x.png" alt="Sample"  width="80" height="20"> ⇢ <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_N9@3x.png" alt="Sample"  width="80" height="20">| 五張牌中任三張和為10的倍數<br> 剩下二張牌和取個位數即為牛幾  |
 | <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_NN@3x.png" alt="Sample"  width="80" height="20">                     | 五張牌中任三張和為10的倍數剩餘二張牌和也為10的倍數   |
 |<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_nonN@3x.png" alt="Sample"  width="80" height="20">       | 五張牌中任三張和都不為10的倍數  |
 
@@ -182,6 +182,39 @@
  
     1️⃣ 點擊彈出自訂籌碼視窗                    
     2️⃣ 選擇下注籌碼金額
+```
+ > ### 重置
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Reset_Bet.png "Reset_Bet")
+```
+如果購物車裡有金額即可按下清除金額
+```
+ > ### 聲音按鈕
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Open_Sound.png "Open_Sound")
+    ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Open_Effect.png "Open_Effect")
+    ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Open_Background_Sound.png "Open_Background_Sound")
+    ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Mute.png "Mute")
+```
+ ⦿ 功能由 左 -> 右
+ 
+    1️⃣ 一開始狀態為播放聲音                      
+    2️⃣ 點擊一次時關閉背景音樂開啟音效                                 
+    3️⃣ 點擊二次時關閉音效開啟背景音樂                          
+    4️⃣ 點擊三次時關閉聲音  
+```
+> ### 線上人數
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Online_Player.png "Online_Player")
+```
+每三秒從 api 取得線上人數
+```
+> ### 自訂籌碼
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Setting_Chips.png "Setting_Chips")
+```
+選擇五個籌碼金額後按確定即可變更牌面籌碼金額
+```
+> ### 投注記錄
+ >> ![GITHUB]( https://github.com/curtis567/FFUN_audio/blob/master/Image/Bet_Record.png "Bet_Record")
+```
+顯示棋牌遊戲是否贏得獎金
 ```
 
 # 使用資源
