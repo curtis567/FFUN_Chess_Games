@@ -41,12 +41,12 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 | card                        | number           
 | :-------------:             |:-------------:|
 | <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Club2@3x.png" alt="Sample"  width="40" height="50"> ⇢ <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Heart9@3x.png" alt="Sample"  width="40" height="50">| According to the number on the card|
-| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/SpadeA@3x.png" alt="Sample"  width="40" height="50">                     | A is one point    |
-| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Diamond10@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubJ@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubQ@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartK@3x.png" alt="Sample"  width="40" height="50">        | 10, J, Q, k is zero point   |
+| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/SpadeA@3x.png" alt="Sample"  width="40" height="50">                     | one point    |
+| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Diamond10@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubJ@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubQ@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartK@3x.png" alt="Sample"  width="40" height="50">        | zero point   |
 
 >> Poker cards total points
 
-| Bookmaker two cards total points | (Bookmaker)   | Player two cards total points |(Player)       
+| Player two cards total points    | (Player)   |Bookmaker two cards total points  |(Bookmaker)       
 | :-------------:                  |:-------------:|:-------------:|:-------------:|
 |0                                 |Must play card|0              |Must play card |
 |1                                 |Must play card|1              |Must play card |
@@ -145,8 +145,8 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 | Card type                        | number           
 | :-------------:             |:-------------:|
 | <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Club2@3x.png" alt="Sample"  width="40" height="50"> ⇢ <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/Diamond10@3x.png" alt="Sample"  width="40" height="50">| According to the number on the card|
-| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/SpadeA@3x.png" alt="Sample"  width="40" height="50">                     | A is one point    |
-|<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubJ@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubQ@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartK@3x.png" alt="Sample"  width="40" height="50">        | J, Q, k is ten point   |
+| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/SpadeA@3x.png" alt="Sample"  width="40" height="50">                     | one point    |
+|<img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubJ@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubQ@3x.png" alt="Sample"  width="40" height="50">     <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartK@3x.png" alt="Sample"  width="40" height="50">        | ten point   |
 
 >> Show winner
  * Unopened
