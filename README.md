@@ -113,8 +113,6 @@ Read this in other languages: *[English](https://github.com/curtis567/FFUN_audio
 * ### <h3>LHD Rules of play
 >> Rules of number(Don't look at the poker card suit, just look at the points)
   
->> Point number size
-
   ```
   K > Q > J > 10 > 9 > 8 > 7 > 6 > 5 > 4 > 3 > 2 > A ;
   K Max , A Min , 
