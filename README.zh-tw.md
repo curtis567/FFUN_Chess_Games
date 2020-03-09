@@ -88,7 +88,7 @@
   ♠︎ > ♥︎ > ♦︎ > ♣︎
   ```
   
-| card suit                       | Explanation          
+| 撲克牌花色                       | 說明          
 | -------------             |:-------------|
 |  <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartA@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ClubA@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/SpadeA@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_Boom@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>三張點數相同的牌; AAA 最大, 222 最小 |
 <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartJ@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartQ@3x.png" alt="Sample"  width="40" height="50"><img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/HeartK@3x.png" alt="Sample"  width="40" height="50">| <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/ZJ_PkGroup_SJ@3x.png" alt="ZJ_PkGroup_Boom"  width="80" height="20"><br>三張花色相同的順子; AKQ 最大, A23 最小 |
@@ -133,7 +133,7 @@
 
 >> 牌型
   
-| 卡片                        | 解釋           
+| 卡片                        | 說明           
 | :-------------:             |:-------------:|
 | <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_N1@3x.png" alt="Sample"  width="80" height="20"> ⇢ <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_N9@3x.png" alt="Sample"  width="80" height="20">| 五張牌中任三張和為10的倍數<br> 剩下二張牌和取個位數即為牛幾  |
 | <img src="https://github.com/curtis567/FFUN_audio/blob/master/Image/NN_NN@3x.png" alt="Sample"  width="80" height="20">                     | 五張牌中任三張和為10的倍數剩餘二張牌和也為10的倍數   |
